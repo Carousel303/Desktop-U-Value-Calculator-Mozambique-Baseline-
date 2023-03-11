@@ -6,7 +6,6 @@ https://colab.research.google.com/drive/1ap_O3c5wIQPbaU-c-5ig1tkjU2OXGxrx#scroll
 
 Presentation Link
 https://youtu.be/cBfRqFFC2_s
-![image](https://user-images.githubusercontent.com/110291104/224463285-988b67d8-936e-4268-a32f-58b911d330a0.png)
 
 Responsible
 

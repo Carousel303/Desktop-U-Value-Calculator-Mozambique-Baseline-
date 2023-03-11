@@ -1,5 +1,5 @@
 # U-Value-Calculator-(Mozambique-Baseline)
-A building envelope U-value calculator with a renewable and non-renewable material's library set to a Mozambique baseline. QT Design Python Template and Python Calculator Code
+A building envelope U-value calculator with a renewable and non-renewable material's library set to a Mozambique baseline. QT Design Python Template (EWB_Calcultor_2) and Python Calculator Code (EWBCalculator)
 
 U-Value Calculator Documentation
 https://colab.research.google.com/drive/1ap_O3c5wIQPbaU-c-5ig1tkjU2OXGxrx#scrollTo=kDNxm6uS5qhn

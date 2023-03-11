@@ -31,5 +31,7 @@ Reference List
 Asdrubali, F., D’Alessandro, F., & Schiavoni, S., 2015. A review of unconventional sustainable building insulation materials. Sustainable Materials and Technologies (Vol. 4, pp. 1–17). Elsevier BV. https://doi.org/10.1016/j.susmat.2015.05.002
  
 Caballero, P., 2020. Girl Move Academy / ROOTSTUDIO + paz braga, ArchDaily. ArchDaily. Available at: https://www.archdaily.com/933321/girl-move-academy-rootstudio (Accessed: February 22, 2023). 
+
 Changeplan., 2023. free simple U-value calculator. Available at: https://www.changeplan.co.uk/u_value_calculator.php (Accessed: February 27, 2023). 
+
 Costes, J., Evrard, A., Biot, B., Keutgen, G., Daras, A., Samuel, L., F., & Courard, L., 2017. Thermal Conductivity of Straw Bales: Full Size Measurements Considering the Direction of the Heat Flow. Buildings. 7. 11. 10.3390/buildings7010011.
